@@ -1,6 +1,6 @@
 # GitBeam
 
-![icon](icon.png)
+[繁体中文](README.md) [简体中文](README.zh.md) [English](README.en.md)
 
 一个在安卓设备上通过**本地 DNS 清洗**让 GitHub 可访问的轻量小工具。
 
