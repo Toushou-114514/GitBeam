@@ -1,0 +1,25 @@
+# 文本统一 LF
+* text=auto eol=lf
+
+# 明确指定文本文件
+*.java          text eol=lf
+*.xml           text eol=lf
+*.sh            text eol=lf
+*.md            text eol=lf
+*.txt           text eol=lf
+.gitattributes  text eol=lf
+
+# 二进制资源，不做行尾转换 / 不生成文本 diff
+*.png      binary
+*.jpg      binary
+*.jpeg     binary
+*.webp     binary
+*.apk      binary
+*.jks      binary
+*.keystore binary
+*.jar      binary
+*.dex      binary
+*.zip      binary
+
+# 构建产物不参与语言统计和 diff 预览
+build/**   linguist-generated=true
