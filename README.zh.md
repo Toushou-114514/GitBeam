@@ -12,7 +12,7 @@
 
 ## 安装
 
-来到 **[发布页面](https://github.com/Toushou-114514/GitBeam/release/latest)** 下载文件`GitBeam.apk`
+来到 **[发布页面](https://github.com/Toushou-114514/GitBeam/releases/latest)** 下载文件`GitBeam.apk`
 
 安装`GitBeam.apk`
 
